@@ -1,0 +1,8 @@
+{
+  "latest_version_code": 1,
+  "latest_version_name": "v1.0.0",
+  "download_url": "https://miningcoinphp.iceiy.com/",
+  "title": "Critical Update Required",
+  "message": "A newer version of Official Watchdog is available. To ensure data integrity and security, you must update the application to continue.",
+  "force_update": true
+}
